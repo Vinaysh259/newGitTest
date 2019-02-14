@@ -1,5 +1,3 @@
-'''
-Created on 12-Feb-2019
-
-@author: As
-'''
+a = 1
+b = 2
+print (a+b)
